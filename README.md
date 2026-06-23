@@ -1,2 +1,16 @@
 # HeatGuard-Innovators
-AI-powered Urban Heat Mitigation and Heat Risk Prediction System for ISRO Hackathon 2026.
+AI-powered Urban Heat Mitigation system.
+
+## Features
+- Heat Risk Prediction
+- Heat Hotspot Detection
+- AI Recommendations
+- What-If Simulator
+- Interactive Dashboard
+
+## Tech Stack
+- React
+- FastAPI
+- Python
+- MongoDB
+- Machine Learning
